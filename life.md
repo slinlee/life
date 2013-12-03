@@ -9,4 +9,4 @@ slee's life
 - 2005-2009 VMware
 - 2009-2011 Adventures in Micro-Retirement
 - 10/2011-~ DeepDyve
-- 5/2013-~ Friendlee
+- 5/2013-~ FriendLee
